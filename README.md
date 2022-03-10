@@ -1,0 +1,1 @@
+This is another of my first course exams in Web Development. Basic HTML JavaScript page with Jquery, AJAX, REST API that display all countries and data from an API, a search function, and Jquery effects. Designed with CSS and Bootstrap.
